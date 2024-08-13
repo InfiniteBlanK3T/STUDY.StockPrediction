@@ -6,3 +6,4 @@ tensorflow
 yfinance
 pandas_datareader
 mplfinance
+yahoo_fin
