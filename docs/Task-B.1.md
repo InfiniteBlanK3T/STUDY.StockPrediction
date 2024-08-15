@@ -72,7 +72,7 @@ I also tested the code from the P1 repository. This implementation includes:
 - A different model architecture
 - Additional visualization options
 
-[Insert screenshot of P1 results here]
+[Pics]
 
 ### 5. Challenges and Solutions
 
@@ -84,9 +84,4 @@ I also tested the code from the P1 repository. This implementation includes:
 
 ### 6. Conclusions and Next Steps
 
-I successfully set up the development environment and tested both v0.1 and P1 code bases. The initial v0.1 code provides a basic framework for stock prediction, while P1 offers more advanced techniques that could be incorporated into our project.
-
-Next steps:
-1. Analyze the differences between v0.1 and P1 to identify potential improvements.
-2. Begin implementing data processing improvements as outlined in Task B.2.
-3. Consider how to incorporate more advanced features from P1 into our project structure.
+I successfully set up the development environment and tested both v0.1 and P1 code bases. The initial v0.1 code provides a basic framework for stock prediction, while P1 offers more advanced techniques that could be incorporated into the project.
